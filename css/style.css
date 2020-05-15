@@ -131,7 +131,7 @@ p{
   ::-ms-input-placeholder { /* Microsoft Edge */
     color: #fff;
   }  
-@media screen and (max-width:600px){
+@media screen and (max-width:400px){
     .uppertxt{
         text-align: center;
         float: none;
